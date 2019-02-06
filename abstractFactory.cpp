@@ -85,49 +85,35 @@ class Craftstore
 class USACraftstore
 {
     public:
-    shape *shapePtr;
     
     USACraftstore(Vtype v1)
     {
         shapePtr = create(v1);
     }
     
-    shape* getshape()
-    {
-        return shapePtr;
-    }
+    
 }
 
 class IndiaCraftstore
 {
     public:
-    shape *shapePtr;
     
     IndiaCraftstore(Vtype v1)
     {
         shapePtr = create(v1);
     }
     
-    shape* getshape()
-    {
-        return shapePtr;
-    }
 }
 
 class AustraliaCraftstore
 {
     public:
-    shape *shapePtr;
     
     AustraliaCraftstore(Vtype v1)
     {
         shapePtr = create(v1);
     }
     
-    shape* getshape()
-    {
-        return shapePtr;
-    }
 }
 
 Craftstore* Craftstore::create(location l1)
