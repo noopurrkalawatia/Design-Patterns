@@ -2,7 +2,7 @@
 
 This repository contains very basic programs to understand the design patters. 
 
-### 1. Factory Design Patterns : 
+### 1. Factory Design Pattern : 
 
 
 Sailent features :
