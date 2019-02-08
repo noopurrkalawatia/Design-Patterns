@@ -23,7 +23,7 @@ Sailent Features:
               Client uses only the public accessor functions to interact 
               with the class.
               Always try to understand the differences between the global variables and the singleton patterns.
-3. Disadvantages : You are always supposed to not global data variables in your code, that does not mean you can replace it                      with a singleton class.
+3. Disadvantages : You are not supposed to use global data variables in your code, that does not mean you can replace it                          with a singleton class.
                    Finding the right balance between exposure to the singleton class and the accessibility of the same. 
 
 
