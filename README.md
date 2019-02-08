@@ -27,3 +27,4 @@ Sailent Features:
                    Finding the right balance between exposure to the singleton class and the accessibility of the same. 
 
 
+		
